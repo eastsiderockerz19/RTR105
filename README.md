@@ -19,3 +19,4 @@ rwx (tiesība skatīt, modificēt un izpildīt
 r-x visas pasaules tiesības
 ls -a visi objekti kas nebija parādīti dēļ punkta priekšā piem. .file
 ls -la pilnīgi visi objekti
+komanda cat (faila saturs)
