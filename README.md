@@ -10,7 +10,8 @@ komada (atstarpe)-atslēga piem. uname -r (komandas opcija)
 komanda man (manual) komandu instrukcija
 komanda man man apraksts apraksta komandai
 komanda kā uzzināt kas es esmu sistēmā whoami
-programmēšanas valoda shell, bashkomanda who parāda kas līdzdarbojas
+programmēšanas valoda shell, bash
+komanda who parāda kas līdzdarbojas
 komanda pwd parāda kur mēs atrodamies
 komanda ls parāda pieejamo objektu kas man ir pieejams
 drwxr-xr-x 2 user user 4096 Mar  5  2018
