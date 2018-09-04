@@ -20,4 +20,5 @@ rwx (tiesība skatīt, modificēt un izpildīt
 r-x visas pasaules tiesības
 ls -a visi objekti kas nebija parādīti dēļ punkta priekšā piem. .file
 ls -la pilnīgi visi objekti
-komanda cat (faila saturs)
+komanda cat (faila saturs) piemēram var redzēt kas atrodas txt failā  (cat (faila nosaukums))
+virtual box+ubuntu iso
