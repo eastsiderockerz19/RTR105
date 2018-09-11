@@ -1,0 +1,19 @@
+    1  uname
+    2  uname -a
+    3  chmod 600 fails1.txt 
+    4  nano fails1.txt 
+    5  ls -ls
+    6  cp fails1.txt fails111.txt
+    7  mv *.txt
+    8  mv *.txt music/
+    9  ls -l
+   10  mw*.txt /music
+   11  mw 
+   12  mw fails1.txt fails111.txt
+   13  mv fails1.txt fails111.txt
+   14  mv *.txt /music
+   15  rm *3.txt
+   16  rm *11.txt
+   17  ls -l
+   18  history
+   19  history > history_20180911.txt
