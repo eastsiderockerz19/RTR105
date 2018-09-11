@@ -41,4 +41,4 @@ cp kopet fail
 ctrl+c iziet no komandas
 **.** tekosa vieta sistema
 *cd* parvietosties
-#teksts
+# teksts
