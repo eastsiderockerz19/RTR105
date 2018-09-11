@@ -1,4 +1,4 @@
-# RTR105
+# RTR105 dienasgramata
 Datormācības kursa elektroniskā klade
 cietvielas objekts (dzelzis) darbība notiek ar fizikāliem lielumiem caur bināro skaitlisko sistēmu (0,1)
 lai redzētu visas komandas konkrētajam burtam ir janospiež konkrētais burts un TAB TAB
