@@ -22,3 +22,19 @@ ls -a visi objekti kas nebija parādīti dēļ punkta priekšā piem. .file
 ls -la pilnīgi visi objekti
 komanda cat (faila saturs) piemēram var redzēt kas atrodas txt failā  (cat (faila nosaukums))
 virtual box+ubuntu iso
+crtl+shift=jauna cilne komandu josl
+cd .. = solis atpakal
+ar noradit saknes absuluto adresi cd/home/user
+cd /= noklut uz sakumu
+mkdir izveidot mapi
+rmdir izdzest mapi
+rm izdzest
+rm -f dzest netukso mapiq
+echo lauj attelot tekstu
+> ievietot tekstu faila
+>> pievienot tekstu
+echo -e komanda lai ievetotu vardus kopa ar jaunam rindam
+chmod mainit tiesibas pret avu objektu
+nano komanda atkauj ienakt teksta redaktora
+ctrl x iziet no nano
+cp kopet failu
