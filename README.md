@@ -37,4 +37,8 @@ echo -e komanda lai ievetotu vardus kopa ar jaunam rindam
 chmod mainit tiesibas pret avu objektu
 nano komanda atkauj ienakt teksta redaktora
 ctrl x iziet no nano
-cp kopet failu
+cp kopet fail
+ctrl+c iziet no komandas
+**.** tekosa vieta sistema
+*cd* parvietosties
+#teksts
