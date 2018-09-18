@@ -44,3 +44,13 @@ ctrl+c iziet no komandas
 # teksts
 skriptus nododot interpritatoram
 !# interpritators
+mainigais = pieskirsanas operacija
+= pieskirt, nav vienadibas zime
+piemeram a = 10  un b = 20, tad komanta a * b atpazis ka 10*20=200
+##phyton
+ASCII tabula ecowin.org/ascii.htm
+1 baita var uzturet 256 simboli vai kombinaciju no 256 cipariem
+pozicionalas skaitisanas sistemas
+aprekinat varda un uzvarda pirmos bustus un japarveido uz binaro un un dexicimalo
+ord (burts) uzzinat vertibu
+hex(ord)burts
