@@ -54,3 +54,7 @@ pozicionalas skaitisanas sistemas
 aprekinat varda un uzvarda pirmos bustus un japarveido uz binaro un un dexicimalo
 ord (burts) uzzinat vertibu
 hex(ord)burts
+pythone
+ipythone
+idle
+sude apt-get install ipythone
