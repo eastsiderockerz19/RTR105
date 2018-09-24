@@ -52,9 +52,13 @@ ASCII tabula ecowin.org/ascii.htm
 1 baita var uzturet 256 simboli vai kombinaciju no 256 cipariem
 pozicionalas skaitisanas sistemas
 aprekinat varda un uzvarda pirmos bustus un japarveido uz binaro un un dexicimalo
-ord (burts) uzzinat vertibu
-hex(ord)burts
+ord (burts) uzzinat vertibu burtam
+hex(ord(Burts))
 pythone
 ipythone
 idle
 sude apt-get install ipythone
+hex(ord(burts)) uzzināti hekxodecimālo skaitli burtam
+chr uzzināt no skaitļa burtu chr(0....255)
+bin(skaitlis) binārais skaitlis
+ctrl-D iziet no python komandu joslas
