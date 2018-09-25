@@ -62,3 +62,6 @@ hex(ord(burts)) uzzināti hekxodecimālo skaitli burtam
 chr uzzināt no skaitļa burtu chr(0....255)
 bin(skaitlis) binārais skaitlis
 ctrl-D iziet no python komandu joslas
+mans_mainiigais = int(mans_mainiigais) nomainit vertibu piespiedu karta
+vienu un to pasu darbibu var darit caur #skriptu
+komentarus ieliek pirms teksta ar 3 apostrofiem sakuma un beigas '''    '''
