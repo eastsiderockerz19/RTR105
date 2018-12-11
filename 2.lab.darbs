@@ -1,0 +1,42 @@
+
+
+'''
+from math import sin
+x = float(input("lietotaj, ludzu ievadi argumentu (x):"))
+y = sin(x)
+print("sin(%6.2f) = %6.2f"%(x,y))
+k = 0
+a = (-1)**0*x**2*0+1/(1)
+S = a     
+print("a0 = %6.2f S0 = %6.2f"%(a,S))
+
+'''
+import sys
+sys.path.append('/usr/localanaconda3/lib/python3.6/site-packages')
+from numpy import exp, linspace
+from matplotlib import pyplot as plt
+
+x = linspace(0, 4, 70)
+y = (1 - x) * exp(-x)
+
+y1 = 1 * (1 -x)
+y2 = y1 - x *(1 -x)
+y3 = y2 + x**2/(1*2)*(1 - x)
+y4 = y3 - x**3/(1*2*3)*(1 - x)
+
+
+
+plt.grid()
+plt.xlabel('x')
+plt.ylabel('f(x)')
+plt.title('Funkcija $(1 - x) * exp(-x)$')
+plt.plot(x, y1, color = '#FF0000', linewidth=2.0)
+plt.plot(x, y2, color = '#00FF00', linewidth=2.0)
+plt.plot(x, y3, color = '#0000FF', linewidth=2.0)
+plt.plot(x, y4, color = '#680000', linewidth=2.0)
+plt.show()
+
+
+
+
+           
